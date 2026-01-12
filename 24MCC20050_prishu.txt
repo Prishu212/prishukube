@@ -1,2 +1,0 @@
-This is 24MCC20050_prishu.txt
-This is an updated line in UID branch.
